@@ -145,3 +145,12 @@ ellipse(475, 75, 10, 5);
 ellipse(510, 15, 50, 50);
 ellipse(480, 35, 50, 40); 
 ellipse(540, 35, 50, 40); 
+
+
+//
+translate(-10,0);
+fill(255,255, 255);
+ellipse(440, -155,150, 100);
+fill(0, 0, 0);
+textSize(38);
+text("STEVE!!!", 375, -145);
